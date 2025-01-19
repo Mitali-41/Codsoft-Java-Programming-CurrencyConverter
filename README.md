@@ -1,2 +1,3 @@
 # Codsoft-Java-Programming-CurrencyConverter
 Task 4:- Currency Converter
+This Java program is a simple **Currency Converter** that allows users to convert an amount from one currency to another using predefined exchange rates. Users can input a base currency, a target currency, and the amount they wish to convert. The program calculates the converted amount by applying the appropriate exchange rate and displays the result. It includes mock exchange rates for common currencies such as USD, INR, and EUR, with a default rate of 1.0 for conversions within the same currency. This project demonstrates user input handling, basic arithmetic operations, and conditional logic in Java, making it an excellent starting point for understanding the basics of currency conversion.
